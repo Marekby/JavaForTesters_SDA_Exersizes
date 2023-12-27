@@ -36,9 +36,7 @@ public class Main {
         johnWick.welcomeName();*/
 
         Zad8_TempConverter tempConverter = new Zad8_TempConverter();
-        tempConverter.fromCtoF();
-        tempConverter.fromFtoC();
-
+        tempConverter.intTemp();
 
     }
 
