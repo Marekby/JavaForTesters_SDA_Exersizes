@@ -35,8 +35,11 @@ public class Main {
        /* JohnWick johnWick = new JohnWick();
         johnWick.welcomeName();*/
 
-        Zad8_TempConverter tempConverter = new Zad8_TempConverter();
-        tempConverter.intTemp();
+       /* Zad8_TempConverter tempConverter = new Zad8_TempConverter();
+        tempConverter.intTemp();*/
+
+        Zad9_Petli zad9_petli = new Zad9_Petli();
+        zad9_petli.loop(5);
 
     }
 
