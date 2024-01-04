@@ -6,7 +6,7 @@ package org.example;
 public class Zad9_Petli {
 
     public void loop (int times) {
-        for (int i = 0; i <= times ; i++) {
+        for (int i = 0; i < times ; i++) {
             System.out.println("To jest " + i + " komunikat w petli");
             
         }

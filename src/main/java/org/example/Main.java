@@ -38,8 +38,13 @@ public class Main {
        /* Zad8_TempConverter tempConverter = new Zad8_TempConverter();
         tempConverter.intTemp();*/
 
-        Zad9_Petli zad9_petli = new Zad9_Petli();
-        zad9_petli.loop(5);
+      /*  Zad9_Petli zad9_petli = new Zad9_Petli();
+        zad9_petli.loop(5);*/
+
+        Zad10_Petli2 zad10Petli2 = new Zad10_Petli2();
+        zad10Petli2.loop();
+
+
 
     }
 
